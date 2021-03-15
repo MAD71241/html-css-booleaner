@@ -15,6 +15,14 @@ body {
 
 }
 
+.author, .date {
+    color: grey;
+}
+
+.date {
+    font-size: 10px;
+}
+
 #logo {
     position: absolute;
     bottom: 0;
