@@ -5,6 +5,17 @@ body {
 
 }
 
+table {
+    width: 100%;
+    height: auto;
+    text-align: left;
+}
+
+thead {
+    background-color: #20a9e5;
+    color: white;
+}
+
 .banner {
     background-size: ;
     background-color: #4ea0ff;
@@ -23,11 +34,29 @@ body {
     font-size: 11px;
 }
 
-.photo {
-    padding-top: 10px;
+.photo, .main-article {
+    padding-top: 20px;
 }
 
+.highlight {
+    background-color: yellow;
+}
 
+.left-cell, .middle-cell {
+    width: 25%;
+}
+
+.right-cell {
+    width: 50%;
+}
+
+.row1 {
+background-color: #b1e5f2;
+}
+
+.row2 {
+background-color: white;
+}
 
 #logo {
     position: absolute;
