@@ -19,7 +19,7 @@ thead {
 .banner {
     background-size: ;
     background-color: #4ea0ff;
-    background-image: url("img/pattern.png");
+    background-image: url("/img/pattern.png");
     height: 180px;
     background-repeat: repeat-x;
     position: relative;
