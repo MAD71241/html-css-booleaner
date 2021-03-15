@@ -19,9 +19,15 @@ body {
     color: grey;
 }
 
-.date {
-    font-size: 10px;
+.date, .photo-description {
+    font-size: 11px;
 }
+
+.photo {
+    padding-top: 10px;
+}
+
+
 
 #logo {
     position: absolute;
