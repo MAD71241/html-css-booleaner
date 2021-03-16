@@ -1,0 +1,88 @@
+body {
+ 
+    box-sizing: border-box;
+    margin: 0;
+
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    height: auto;
+    text-align: left;
+}
+
+thead {
+    background-color: #20a9e5;
+    color: white;
+}
+
+.main-container {
+    margin: auto;
+    width: 70%;
+    }
+
+.banner {
+    background-size: ;
+    background-color: #4ea0ff;
+    background-image: url("/img/pattern.png");
+    height: 180px;
+    background-repeat: repeat-x;
+    position: relative;
+
+}
+
+.author, .date, .recommend {
+    color: grey;
+}
+
+.date, .photo-description {
+    font-size: 11px;
+}
+
+footer, .photo, .main-article {
+    padding-top: 20px;
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+.left-cell, .middle-cell {
+    width: 25%;
+}
+
+.right-cell {
+    width: 50%;
+}
+
+.row1 {
+    background-color: #b1e5f2;
+}
+
+.row2 {
+    background-color: white;
+}
+
+.footer-container {
+    position: relative;
+    text-align: left;
+    color: white;
+}
+
+.footer-article {
+    font-size: 22px;
+    font-weight: bold;
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
+
+
+#logo {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 40%;
+    height: 40%;
+}
